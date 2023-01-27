@@ -1,4 +1,5 @@
-# YOUR PROJECT TITLE
+# EzeKart - Your friendly neighborhood grocery app!
 #### Video Demo:  <URL HERE>
 #### Description:
-TODO
+It is a web-based application using MERN Stack and Spoonacular API. 
+It helps you to add the ingredients required for your everyday reciepe by just typing the name of the dish in the UI!
