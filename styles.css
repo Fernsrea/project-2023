@@ -1,0 +1,21 @@
+body{
+    background-image: url("chef-pic.png");
+    background-color: #ece0e0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 50%; 
+    margin: 4px auto;
+    text-align: center;
+    
+   
+}
+
+.navbar {
+   margin-top: 1%;
+    margin-left: 2%; 
+    margin-right: 2%;
+}
+
+#search-bar{
+    margin-top: 5%;
+}
